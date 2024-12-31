@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/fortune-cookie/static/js/main.1f3ffdd9.js",
+    "main.js": "/fortune-cookie/static/js/main.079731ea.js",
     "index.html": "/fortune-cookie/index.html",
-    "main.1f3ffdd9.js.map": "/fortune-cookie/static/js/main.1f3ffdd9.js.map"
+    "main.079731ea.js.map": "/fortune-cookie/static/js/main.079731ea.js.map"
   },
   "entrypoints": [
-    "static/js/main.1f3ffdd9.js"
+    "static/js/main.079731ea.js"
   ]
 }
